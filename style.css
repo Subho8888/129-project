@@ -1,0 +1,29 @@
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+    color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+.note{
+    font-size: 18px;
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: inherit;
+}
+.play_music{
+    width: 155px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: oblique;
+    color: rgb(251, 226, 0);
+}
+canvas{
+    
+    border: 8px solid black;
+    border-radius: 20px;
+    margin-top: 20px;
+}
